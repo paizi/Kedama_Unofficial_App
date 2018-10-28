@@ -1,0 +1,2 @@
+name="Nyaa"
+template="tool"
