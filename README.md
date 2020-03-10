@@ -1,6 +1,6 @@
 # 毛玉线圈物语非官方APP
 
-新项目：[KedamaUnofficalApp](https://github.com/paizi/KedamaUnofficialApp)
+## 本项目已被放弃。新项目：[KedamaUnofficalApp](https://github.com/paizi/KedamaUnofficialApp)
 
 使用[Fusion App](https://www.coolapk.com/apk/cn.coldsong.fusionapp)打包
 
